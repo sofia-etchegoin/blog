@@ -1,24 +1,25 @@
-# README
+# Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is built using Ruby on Rails.
 
-Things you may want to cover:
+## Getting started:
 
-* Ruby version
+Clone the repo and install dependencies:
 
-* System dependencies
+```
+npm i
+```
 
-* Configuration
+To start the server, run:
 
-* Database creation
+```
+rails server
+```
 
-* Database initialization
+Skills:
 
-* How to run the test suite
+- CRUD functionatity.
+- Authentication using Devise.
+- Testing.
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hosted with Hatchbox.
