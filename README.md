@@ -2,6 +2,9 @@
 
 This project is built using Ruby on Rails.
 
+Ruby version 3.3.0
+Rails version 7.1.2
+
 ## Getting started:
 
 Clone the repo and install dependencies:
