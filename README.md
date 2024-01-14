@@ -25,4 +25,4 @@ Skills:
 - Authentication using Devise.
 - Testing.
 
-Hosted with Hatchbox.
+Hosted on https://blog-m5sf.onrender.com/.
